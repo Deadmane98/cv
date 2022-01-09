@@ -3,13 +3,19 @@ body {
   font-family: "Gill Sans", sans-serif;
 }
 
+img {
+  max-width: 250px;
+  height: auto;
+}
+
 h1 {
   color: #11999E;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h3 {
-  color: #30E3CA;
+  color: #11999E;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 hr {
